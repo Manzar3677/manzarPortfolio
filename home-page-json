@@ -1,13 +1,13 @@
 {
-  "portfolio_logo":"https://github.com/Manzar3677/manzarPortfolio/blob/master/logo-me1.png?raw=true",
-  "portfolio_name":"Manzar Hussain",
-  "image_url":[
+  "logo":"https://github.com/Manzar3677/manzarPortfolio/blob/master/logo-me1.png?raw=true",
+  "name":"Manzar Hussain",
+  "url":[
               "https://github.com/Manzar3677/manzarPortfolio/blob/master/homegenie.png?raw=true",
               "https://github.com/Manzar3677/manzarPortfolio/blob/master/kikiclick.png?raw=true",
               "https://github.com/Manzar3677/manzarPortfolio/blob/master/afrikamaono.png?raw=true"
               ],
-  "protfolio_text":"A Successful website does three things: It attracts the right kinds of visitors.Guides them to the main services or product you offer. Collect contact details for future ongoing relation.",
-  "portfolio_header":"Protfolio Category",
-  "portfolio_subHeader":["About Me","My Resume","My Projects","Contacts Us"],
-  "portfolio_banner":"https://github.com/Manzar3677/manzarPortfolio/blob/master/homegenie.png?raw=true"
+  "text":"A Successful website does three things: It attracts the right kinds of visitors.Guides them to the main services or product you offer. Collect contact details for future ongoing relation.",
+  "header":"Protfolio Category",
+  "subHeader":["About Me","My Resume","My Projects","Contacts Us"],
+  "banner":"https://github.com/Manzar3677/manzarPortfolio/blob/master/homegenie.png?raw=true"
 }
