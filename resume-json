@@ -6,16 +6,11 @@
  "userWorkDetails":[{"detail":"Professional Software Engineer with 2 year of expriance in the Web Development and App Development. Currently associated with IESOFTEK Pvt Ltd, Jubli Hills as Web Developer."},
                     {"detail":"Currently associated with IESOFTEK Pvt Ltd, Jubli Hills as Software Engineer."}],
  "personalLink":[
-          {"manzarhussain3677","@gmail.com"},
-          {"9304966843","9955885894"},
-          {"Flat no: 207","Malkpet,Hyderabad"},
-          {"manzar1994","@linkdine"},
-          {"Er.manzar","3677@skype"}
- ],
- "socialIcon":[
-          "https://github.com/Manzar3677/manzarPortfolio/blob/master/email.jpg?raw=true",
-          "https://github.com/Manzar3677/manzarPortfolio/blob/master/mobile-pic.png?raw=true",
-          "https://github.com/Manzar3677/manzarPortfolio/blob/master/location-green-512.png?raw=true",
-          "https://github.com/Manzar3677/manzarPortfolio/blob/master/linkedin-pic.jpg?raw=true",
-          "https://github.com/Manzar3677/manzarPortfolio/blob/master/skype.png?raw=true"]
+          {"firstData":"manzarhussain3677","secondData":"@gmail.com","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/email.jpg?raw=true"},
+          {"firstData":"9304966843","secondData":"9955885894","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/mobile-pic.png?raw=true"},
+          {"firstData":"Flat no: 207","secondData":"Malkpet,Hyderabad","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/location-green-512.png?raw=true"},
+          {"firstData":"manzar1994","secondData":"@linkdine","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/linkedin-pic.jpg?raw=true"},
+          {"firstData":"Er.manzar","secondData":"3677@skype","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/skype.png?raw=true"}
+ ]
+
 }
