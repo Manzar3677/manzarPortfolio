@@ -22,9 +22,9 @@
           {"skill":"Web Development"},
           {"skill":"Mustache Js"},
           {"skill":"MongoDB"},
+          {"skill":"Express Js"},
           {"skill":"App Development"},
-          {"skill":"Ionic"},
-          {"skill":"Express Js"}
+          {"skill":"Ionic"}
  ],
  "professionalOutline":[
           {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
