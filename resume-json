@@ -35,6 +35,9 @@
           {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2013 - 2017"},
           {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2012"},
           {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2010"}
+ ],
+  "personalInformation":[
+          {"DOB":"17 July , 1995","lang":"English , Hindi","fatherName":"Manawar Hussain","motherName":"Kaushar Jahan","address":"Flat No: 207 , New Saath Complex, Judges Colony, Chancalguda, Malkpet, Hyderabad, Telangana, India"}
  ]
  
 }
