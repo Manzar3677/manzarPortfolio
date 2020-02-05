@@ -30,6 +30,11 @@
           {"key":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
           {"key":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
           {"key":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."}
+ ],
+  "qualification":[
+          {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2013 - 2017"},
+          {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2012"},
+          {"education":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus.","session":"2010"}
  ]
  
 }
