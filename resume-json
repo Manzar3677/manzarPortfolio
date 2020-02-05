@@ -19,12 +19,12 @@
           {"skill":"HTML"},
           {"skill":"Jquery"},
           {"skill":"Node Js"},
-          {"skill":"Ionic"},
           {"skill":"Web Development"},
           {"skill":"Mustache Js"},
           {"skill":"MongoDB"},
-          {"skill":"Express Js"},
-          {"skill":"App Development"}
+          {"skill":"App Development"},
+          {"skill":"Ionic"},
+          {"skill":"Express Js"}
  ],
  "professionalOutline":[
           {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
