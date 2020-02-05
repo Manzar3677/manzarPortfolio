@@ -12,6 +12,6 @@
           {"firstData":"manzar1994","secondData":"@linkdine","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/linkedin-pic.jpg?raw=true"},
           {"firstData":"Er.manzar","secondData":"3677@skype","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/skype.png?raw=true"}
  ],
- skills:["Angular Js","Javascript","CSS","HTML","Jquery","Mustache Js","Node Js","MongoDB","Express Js","Web Development","Ionic","App Development"]
+ "skills":["Angular Js","Javascript","CSS","HTML","Jquery","Mustache Js","Node Js","MongoDB","Express Js","Web Development","Ionic","App Development"]
 
 }
