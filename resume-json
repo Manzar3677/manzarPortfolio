@@ -12,6 +12,13 @@
           {"firstData":"manzar1994","secondData":"@linkdine","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/linkedin-pic.jpg?raw=true"},
           {"firstData":"Er.manzar","secondData":"3677@skype","imgUrl":"https://github.com/Manzar3677/manzarPortfolio/blob/master/skype.png?raw=true"}
  ],
- "skills":["Angular Js","Javascript","CSS","HTML","Jquery","Node Js","Ionic","Web Development","Mustache Js","MongoDB","Express Js","App Development"]
-
+ "skills":["Angular Js","Javascript","CSS","HTML","Jquery","Node Js","Ionic","Web Development","Mustache Js","MongoDB","Express Js","App Development"],
+ "professionalOutline":[
+          {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
+          {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
+          {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
+          {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."},
+          {"outline":"Lorem ipsum dolor sit, amet consectetur adipisicing elit, Consequuntur, possimus."}
+ ]
+ 
 }
